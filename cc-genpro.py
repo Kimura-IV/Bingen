@@ -74,10 +74,12 @@ def usage():
     print("\033[1;33m          Creador: JoeTech Studio\033[0m")
     print("\033[1;33m          Youtube: http://www.youtube.com/c/JoeTechStudio\033[0m")
     print("\033[1;33m          Telegram: t.me/JoeTechStudio\033[0m")
-    print("\033[1;33m          Pagina De Facebook: https://www.facebook.com/JoeTech-Studio-110851877285636/?modal=admin_todo_tour")
     print("\033[1;33m          Instagram: https://www.instagram.com/an_o_ny_mou_s/")
     print("\033[1;33m          Twitter: https://twitter.com/JoeTech_Studio")
     print("\033[1;33m          GitHub: https://github.com/JoeTech-Studio")
+    print("\033[1;33m          Pagina De Facebook: https://www.facebook.com/JoeTech-Studio-110851877285636/?modal=admin_todo_tour")
+    print("")
+    print("")
     print("")
 
 #Arg parser
