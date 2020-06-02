@@ -80,7 +80,6 @@ def usage():
     print("\033[1;33m          Pagina De Facebook: https://www.facebook.com/JoeTech-Studio-110851877285636/?modal=admin_todo_tour")
     print("")
     print("")
-    print("")
 
 #Arg parser
 def parseOptions(argv):
