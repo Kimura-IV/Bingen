@@ -12,7 +12,7 @@ $ apt update && apt upgrade
 $ apt install git
 $ apt install python
 $ apt install python2
-$ git clone 
+$ git clone https://github.com/JoeTech-Studio/Bingen.git
 $ cd Bingen
 $ ls
 $ python2 cc-genpro.py
