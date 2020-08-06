@@ -1,10 +1,12 @@
 # Bingen
 
-   POR QUE NINGÚN SISTEMA ES SEGURO
+  POR QUE NINGÚN SISTEMA ES SEGURO
   POR QUE EL CONOCIMIENTO DEBE SER LIBRE
 
 # Guía de instalación y uso:
 Bingen es un programa basado en Python2 donde cuya funcion es actuar como un generador de bins cabe recarlcar que solo actua como un generador de bins comun.
+
+![](https://i.imgur.com/8CEvOaS.jpg)
 
 ### COMANDOS:
 
