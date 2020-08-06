@@ -8,7 +8,7 @@ Bingen es un programa basado en Python2 donde cuya funcion es actuar como un gen
 
 ![](https://i.imgur.com/8CEvOaS.jpg)
 
-### COMANDOS:
+# COMANDOS:
 
 ```
 $ apt update && apt upgrade
@@ -23,7 +23,7 @@ $ python2 cc-genpro.py
 $ Pondremos el comando mas el bin que queramos generar y seguir los pasos que explica el programa.
 ```
 
-############## REDES SOCIALES ##############
+# REDES SOCIALES
 
 # Suscríbete a este canal así crecemos más:
 http://www.youtube.com/c/JoeTechStudio
